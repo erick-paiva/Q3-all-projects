@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "name": "Monitor LG ultrawide 29",
+        "price": 1500,
+        "category": "eletronic"
+    },
+    {
+        "id": 2,
+        "name": "Notebook Dell inspiron 14",
+        "price": 3400,
+        "category": "eletronic"
+    },
+    {
+        "id": 3,
+        "name": "Mouse logitech G203",
+        "price": 110,
+        "category": "eletronic"
+    },
+    {
+        "id": 4,
+        "name": "The last of us 2",
+        "price": 100,
+        "category": "game"
+    },
+    {
+        "id": 5,
+        "name": "Donkey Kong",
+        "price": 70,
+        "category": "game"
+    }
+]
